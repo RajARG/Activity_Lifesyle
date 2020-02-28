@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity Lifesyle</string>
+    <string name="standard">0</string>
+    <string name="click_button">Switch</string>
+    <string-array name="options_array">
+        <item>Detail</item>
+        <item>Method Calls - This Run</item>
+        <item>Method Calls - Lifetime</item>
+    </string-array>
+</resources>
